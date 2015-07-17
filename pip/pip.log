@@ -1,0 +1,208 @@
+------------------------------------------------------------
+/usr/bin/pip run on Wed Jul 15 13:22:08 2015
+Downloading/unpacking pygit2
+  Getting page https://pypi.python.org/simple/pygit2/
+  URLs to search for versions for pygit2:
+  * https://pypi.python.org/simple/pygit2/
+  Analyzing links from page https://pypi.python.org/simple/pygit2/
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.16.0.tar.gz#md5=49a8c2e1d8cd22fb7f20095c2a41edb9 (from https://pypi.python.org/simple/pygit2/), version: 0.16.0
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.16.1.tar.gz#md5=136ceb6da60e56b18765a4314f001782 (from https://pypi.python.org/simple/pygit2/), version: 0.16.1
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.16.2.tar.gz#md5=6af368376cf755b01cc9b522eb27c954 (from https://pypi.python.org/simple/pygit2/), version: 0.16.2
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.17.0.tar.gz#md5=40072146c3d02927ad67ecd7cd83da24 (from https://pypi.python.org/simple/pygit2/), version: 0.17.0
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.17.1.tar.gz#md5=dcaa12dc00b7f18bad87d89deaa75ab3 (from https://pypi.python.org/simple/pygit2/), version: 0.17.1
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.17.2.tar.gz#md5=6bb168ebbf06aa5ff8958cdd5cc68c74 (from https://pypi.python.org/simple/pygit2/), version: 0.17.2
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.17.3.tar.gz#md5=a1390ef7f2db7e08abf0d1af25c47654 (from https://pypi.python.org/simple/pygit2/), version: 0.17.3
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.18.0.tar.gz#md5=25ea30a000a26137099a98c5ef2fd3af (from https://pypi.python.org/simple/pygit2/), version: 0.18.0
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.18.1.tar.gz#md5=8d27f84509a96d6791a6c393ae67d7c8 (from https://pypi.python.org/simple/pygit2/), version: 0.18.1
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.19.0.tar.gz#md5=eb0c2e036969505b17cfe47631cbddc1 (from https://pypi.python.org/simple/pygit2/), version: 0.19.0
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.19.1.tar.gz#md5=6c61833605bb52a483141780ad233584 (from https://pypi.python.org/simple/pygit2/), version: 0.19.1
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.20.0.tar.gz#md5=e4b42ad3abde5f5c9911bf1e4278d69a (from https://pypi.python.org/simple/pygit2/), version: 0.20.0
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.20.1.tar.gz#md5=accb51744a488ca1f5d595c97698d1c5 (from https://pypi.python.org/simple/pygit2/), version: 0.20.1
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.20.2.tar.gz#md5=ddfe43076a45418a1122ca668b7b0247 (from https://pypi.python.org/simple/pygit2/), version: 0.20.2
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.20.3.tar.gz#md5=1efcc58383fd2e558a8d3cba4dcc4754 (from https://pypi.python.org/simple/pygit2/), version: 0.20.3
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.21.0.tar.gz#md5=ffd1df8fa73e65bc6d2b66ad8f90412c (from https://pypi.python.org/simple/pygit2/), version: 0.21.0
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.21.1.tar.gz#md5=b8ba74d268a3b9c7d2cfa6305f570f92 (from https://pypi.python.org/simple/pygit2/), version: 0.21.1
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.21.2.tar.gz#md5=bcb35b873e70628ad1c8f72cb137f310 (from https://pypi.python.org/simple/pygit2/), version: 0.21.2
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.21.3.tar.gz#md5=c929bb958f91ffaa942cac754218aa92 (from https://pypi.python.org/simple/pygit2/), version: 0.21.3
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.21.4.tar.gz#md5=8a3d02eded2bef2e0af18172814eec32 (from https://pypi.python.org/simple/pygit2/), version: 0.21.4
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.22.0.tar.gz#md5=31dc65b3cbe6e39d75a39db86dd7cd8c (from https://pypi.python.org/simple/pygit2/), version: 0.22.0
+    Found link https://pypi.python.org/packages/source/p/pygit2/pygit2-0.22.1.tar.gz#md5=a96462a623da8532c68d5bf4e2bd69b1 (from https://pypi.python.org/simple/pygit2/), version: 0.22.1
+  Using version 0.22.1 (newest of versions: 0.22.1, 0.22.0, 0.21.4, 0.21.3, 0.21.2, 0.21.1, 0.21.0, 0.20.3, 0.20.2, 0.20.1, 0.20.0, 0.19.1, 0.19.0, 0.18.1, 0.18.0, 0.17.3, 0.17.2, 0.17.1, 0.17.0, 0.16.2, 0.16.1, 0.16.0)
+  Downloading from URL https://pypi.python.org/packages/source/p/pygit2/pygit2-0.22.1.tar.gz#md5=a96462a623da8532c68d5bf4e2bd69b1 (from https://pypi.python.org/simple/pygit2/)
+  Running setup.py (path:/tmp/pip-build-nE_M8R/pygit2/setup.py) egg_info for package pygit2
+    Package libffi was not found in the pkg-config search path.
+    Perhaps you should add the directory containing `libffi.pc'
+    to the PKG_CONFIG_PATH environment variable
+    No package 'libffi' found
+    Package libffi was not found in the pkg-config search path.
+    Perhaps you should add the directory containing `libffi.pc'
+    to the PKG_CONFIG_PATH environment variable
+    No package 'libffi' found
+    Package libffi was not found in the pkg-config search path.
+    Perhaps you should add the directory containing `libffi.pc'
+    to the PKG_CONFIG_PATH environment variable
+    No package 'libffi' found
+    Package libffi was not found in the pkg-config search path.
+    Perhaps you should add the directory containing `libffi.pc'
+    to the PKG_CONFIG_PATH environment variable
+    No package 'libffi' found
+    Package libffi was not found in the pkg-config search path.
+    Perhaps you should add the directory containing `libffi.pc'
+    to the PKG_CONFIG_PATH environment variable
+    No package 'libffi' found
+    c/_cffi_backend.c:13:17: fatal error: ffi.h: No such file or directory
+     #include <ffi.h>
+                     ^
+    compilation terminated.
+    Traceback (most recent call last):
+      File "<string>", line 17, in <module>
+      File "/tmp/pip-build-nE_M8R/pygit2/setup.py", line 197, in <module>
+        cmdclass=cmdclass)
+      File "/usr/lib64/python2.7/distutils/core.py", line 112, in setup
+        _setup_distribution = dist = klass(attrs)
+      File "/usr/lib/python2.7/site-packages/setuptools/dist.py", line 265, in __init__
+        self.fetch_build_eggs(attrs.pop('setup_requires'))
+      File "/usr/lib/python2.7/site-packages/setuptools/dist.py", line 289, in fetch_build_eggs
+        parse_requirements(requires), installer=self.fetch_build_egg
+      File "/usr/lib/python2.7/site-packages/pkg_resources.py", line 618, in resolve
+        dist = best[req.key] = env.best_match(req, self, installer)
+      File "/usr/lib/python2.7/site-packages/pkg_resources.py", line 862, in best_match
+        return self.obtain(req, installer) # try and download/install
+      File "/usr/lib/python2.7/site-packages/pkg_resources.py", line 874, in obtain
+        return installer(requirement)
+      File "/usr/lib/python2.7/site-packages/setuptools/dist.py", line 339, in fetch_build_egg
+        return cmd.easy_install(req)
+      File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 623, in easy_install
+        return self.install_item(spec, dist.location, tmpdir, deps)
+      File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 653, in install_item
+        dists = self.install_eggs(spec, download, tmpdir)
+      File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 849, in install_eggs
+        return self.build_and_install(setup_script, setup_base)
+      File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 1130, in build_and_install
+        self.run_setup(setup_script, setup_base, args)
+      File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 1118, in run_setup
+        raise DistutilsError("Setup script exited with %s" % (v.args[0],))
+    distutils.errors.DistutilsError: Setup script exited with error: command 'gcc' failed with exit status 1
+    Complete output from command python setup.py egg_info:
+    Package libffi was not found in the pkg-config search path.
+
+Perhaps you should add the directory containing `libffi.pc'
+
+to the PKG_CONFIG_PATH environment variable
+
+No package 'libffi' found
+
+Package libffi was not found in the pkg-config search path.
+
+Perhaps you should add the directory containing `libffi.pc'
+
+to the PKG_CONFIG_PATH environment variable
+
+No package 'libffi' found
+
+Package libffi was not found in the pkg-config search path.
+
+Perhaps you should add the directory containing `libffi.pc'
+
+to the PKG_CONFIG_PATH environment variable
+
+No package 'libffi' found
+
+Package libffi was not found in the pkg-config search path.
+
+Perhaps you should add the directory containing `libffi.pc'
+
+to the PKG_CONFIG_PATH environment variable
+
+No package 'libffi' found
+
+Package libffi was not found in the pkg-config search path.
+
+Perhaps you should add the directory containing `libffi.pc'
+
+to the PKG_CONFIG_PATH environment variable
+
+No package 'libffi' found
+
+c/_cffi_backend.c:13:17: fatal error: ffi.h: No such file or directory
+
+ #include <ffi.h>
+
+                 ^
+
+compilation terminated.
+
+Traceback (most recent call last):
+
+  File "<string>", line 17, in <module>
+
+  File "/tmp/pip-build-nE_M8R/pygit2/setup.py", line 197, in <module>
+
+    cmdclass=cmdclass)
+
+  File "/usr/lib64/python2.7/distutils/core.py", line 112, in setup
+
+    _setup_distribution = dist = klass(attrs)
+
+  File "/usr/lib/python2.7/site-packages/setuptools/dist.py", line 265, in __init__
+
+    self.fetch_build_eggs(attrs.pop('setup_requires'))
+
+  File "/usr/lib/python2.7/site-packages/setuptools/dist.py", line 289, in fetch_build_eggs
+
+    parse_requirements(requires), installer=self.fetch_build_egg
+
+  File "/usr/lib/python2.7/site-packages/pkg_resources.py", line 618, in resolve
+
+    dist = best[req.key] = env.best_match(req, self, installer)
+
+  File "/usr/lib/python2.7/site-packages/pkg_resources.py", line 862, in best_match
+
+    return self.obtain(req, installer) # try and download/install
+
+  File "/usr/lib/python2.7/site-packages/pkg_resources.py", line 874, in obtain
+
+    return installer(requirement)
+
+  File "/usr/lib/python2.7/site-packages/setuptools/dist.py", line 339, in fetch_build_egg
+
+    return cmd.easy_install(req)
+
+  File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 623, in easy_install
+
+    return self.install_item(spec, dist.location, tmpdir, deps)
+
+  File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 653, in install_item
+
+    dists = self.install_eggs(spec, download, tmpdir)
+
+  File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 849, in install_eggs
+
+    return self.build_and_install(setup_script, setup_base)
+
+  File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 1130, in build_and_install
+
+    self.run_setup(setup_script, setup_base, args)
+
+  File "/usr/lib/python2.7/site-packages/setuptools/command/easy_install.py", line 1118, in run_setup
+
+    raise DistutilsError("Setup script exited with %s" % (v.args[0],))
+
+distutils.errors.DistutilsError: Setup script exited with error: command 'gcc' failed with exit status 1
+
+----------------------------------------
+Cleaning up...
+Command python setup.py egg_info failed with error code 1 in /tmp/pip-build-nE_M8R/pygit2
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/pip/basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/site-packages/pip/commands/install.py", line 298, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/lib/python2.7/site-packages/pip/req.py", line 1234, in prepare_files
+    req_to_install.run_egg_info()
+  File "/usr/lib/python2.7/site-packages/pip/req.py", line 325, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "/usr/lib/python2.7/site-packages/pip/util.py", line 698, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+InstallationError: Command python setup.py egg_info failed with error code 1 in /tmp/pip-build-nE_M8R/pygit2
